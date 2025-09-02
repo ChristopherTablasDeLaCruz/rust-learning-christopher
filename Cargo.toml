@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "chapter_one_rust_examples/*",
+  "chapter_three_rust_examples/*",
+  "projects/guessing_game",
+]
+resolver = "2"
